@@ -1,3 +1,3 @@
-import { Component_Name } from "./components/Component";
+import Modal from "./components/Modal";
 
-export default Component;
+export default Modal;
