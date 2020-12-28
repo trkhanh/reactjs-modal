@@ -1,0 +1,19 @@
+.version
+.branch
+.changelog_update
+scripts/__pycache__/
+examples/**/*-bundle.js
+node_modules/
+.idea/
+.vscode
+_book
+*.patch
+*.diff
+*.orig
+*.rej
+examples/__build__
+coverage
+yarn.lock
+
+## Built folders
+lib
